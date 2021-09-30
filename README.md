@@ -8,6 +8,9 @@ See [HERE](https://github.com/kyb3r/modmail).
 
 These will slowly be updated when i have the time.
 
+### 📌 Paid requests & suggestions!
+
+Any request or suggestions you have drop me a DM on discord Toaxtt#9407 or join [Here](https://discord.gg/hzEyvjPdwQ)
 
 
 
