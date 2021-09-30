@@ -10,7 +10,7 @@ These will slowly be updated when i have the time.
 
 ### 📌 Paid requests & suggestions!
 
-Any request or suggestions you have drop me a DM on discord Toaxtt#9407 or join [Here](https://discord.gg/hzEyvjPdwQ)
+Any requests or suggestions you have drop me a DM on discord Toaxtt#9407 or join [Here](https://discord.gg/hzEyvjPdwQ)
 
 
 
