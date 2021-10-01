@@ -64,7 +64,7 @@ class Suggestion(commands.Cog):
         await msg_.add_reaction('\N{THUMBS UP SIGN}')
         await msg_.add_reaction('\N{THUMBS DOWN SIGN}')
 
-        await ctx.reply("Successfully submitted your suggestion!")
+        await ctx.reply("Successfully submitted your suggestion.")
 
 
 
