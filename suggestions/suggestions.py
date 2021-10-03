@@ -59,7 +59,7 @@ class Suggestion(commands.Cog):
             title="New Suggestion!",
             description=suggestion,
             color=self.bot.main_color
-        ).set_thumbnail(url=ctx.author.avatar_url)
+        ).set_thumbnail(url=ctx.author.avatar_url).set_footer(text=f"Submitted by {ctx.author.name}")
         )
         await msg_.add_reaction('\N{THUMBS UP SIGN}')
         await msg_.add_reaction('\N{THUMBS DOWN SIGN}')
