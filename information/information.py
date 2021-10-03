@@ -278,3 +278,7 @@ class Info(commands.Cog):
                               description=f"```{days} days, {hours} hours, {minutes} minutes, {seconds} seconds```", colour=self.bot.main_color)
         embed.set_thumbnail(url=self.bot.user.avatar_url)
         await ctx.send(embed=embed)
+
+
+def setup(bot):
+    bot.add_cog(Info(bot))
